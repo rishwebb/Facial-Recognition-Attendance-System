@@ -169,5 +169,6 @@ if os.path.exists(MASTER_LIST):
         if person.upper() not in present_list:
             absent_row = pd.DataFrame([[person, 'N/A', today, 'Absent']], columns=att_df.columns)
             absent_row.to_csv(LOG_FILE, mode='a', header=False, index=False)
-            print(f"❌ ABSENT: {person}")
+            print(f"❌ ABSENT!: {person}")
+
     print("\nFinal report saved in attendance_logs/Attendance.csv")
