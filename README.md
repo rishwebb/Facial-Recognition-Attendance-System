@@ -1,11 +1,11 @@
-# 🆔 BioPass: Enterprise Facial Biometric Attendance & Automated Dispatch Suite
+# 🆔 Facial Recognition Attendance & Automated Email Reporting System
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-Face%20Recognition-brightgreen.svg)](https://opencv.org/)
 [![SMTP](https://img.shields.io/badge/Protocol-Automated%20SMTP-red.svg)](https://docs.python.org/3/library/smtplib.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-**BioPass** is an automated facial recognition roll-call and biometric logging platform. It performs real-time identity verification against an authorized vector database, logs precise attendance timestamps to persistent CSV sheets, and automatically generates and emails consolidated daily attendance reports to designated administrators.
+**Facial Recognition Attendance System** is an automated facial recognition roll-call and biometric logging platform. It performs real-time identity verification against an authorized vector database, logs precise attendance timestamps to persistent CSV sheets, and automatically generates and emails consolidated daily attendance reports to designated administrators.
 
 ---
 
